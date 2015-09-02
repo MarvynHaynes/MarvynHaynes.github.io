@@ -10,6 +10,10 @@
 <link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/css/style.css" />
 <link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/css/jquery.mmenu.all.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/css/highlightjs.piperita.css">
+<!-- Checks if page.addCss is called (MH)-->
+{% if page.addCSS %}
+ <link rel="stylesheet" href="{{ site.baseurl }}/css/{{page.addCSS}}">
+{% endif %}
 
 <!-- Favicons generated at http://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/favicons/apple-touch-icon-57x57.png">
