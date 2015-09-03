@@ -3,17 +3,19 @@ layout:     page
 title:      My Projects
 date:       2015-09-01 17:57:21
 summary:    A list of random projects I have worked on in the past.
+categories: Project
+author:     Marvyn
 thumbnail:  briefcase
 addCSS:     ihover.min.css
 ---
 
-A list of random projects I have worked on in the past. 
+A list of old projects I have worked on in the past while learning code. 
 <div class="row"> 
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+			<a href="{{ site.baseurl }}/projects/sailboat/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/1/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/sailboat/images/Sailboat_Analyzer.jpg" width="275" height="172" alt="Sailboat Analyzer">
 		        </div>
 		        <div class="info">
 		            <h3>Sailboat Racing Analyzer</h3>
@@ -24,9 +26,9 @@ A list of random projects I have worked on in the past.
 	</div>
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+		    <a href="{{ site.baseurl }}/projects/pyRacer/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/2/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/pyRacer/images/PythonRacingGame.jpg" width="275" height="172" alt="Python Racing Game">
 		        </div>
 		        <div class="info">
 		            <h3>Python Racing Game</h3>
@@ -40,9 +42,9 @@ A list of random projects I have worked on in the past.
 <div class="row"> 
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+		    <a href="{{ site.baseurl }}/projects/MathTest/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/3/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/MathTest/images/MathTest.jpg" width="275" height="172" alt="Math Test">
 		        </div>
 		        <div class="info">
 		            <h3>Math Test</h3>
@@ -53,9 +55,9 @@ A list of random projects I have worked on in the past.
 	</div>
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+		    <a href="{{ site.baseurl }}/projects/biggestNumber/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/4/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/biggestNumber/images/BiggestNumber.jpg" width="275" height="172" alt="Biggest Number">
 		        </div>
 		        <div class="info">
 		            <h3>The Biggest Number</h3>
@@ -69,9 +71,9 @@ A list of random projects I have worked on in the past.
 <div class="row"> 
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+		    <a href="{{ site.baseurl }}/projects/ciggCalc/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/5/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/ciggCalc/images/onlineCigg.JPG"  width="275" height="172" alt="Ciggerette Money Saver Calculator">
 		        </div>
 		        <div class="info">
 		            <h3>Cigarette Savings Calculator</h3>
@@ -82,9 +84,9 @@ A list of random projects I have worked on in the past.
 	</div>
 	<div class="col-xs-6">      
 		<div class="ih-item square effect6 from_left_and_right">
-		    <a href="#">
+		    <a href="{{ site.baseurl }}/projects/travelAgency/">
 		        <div class="img">
-		            <img src="http://lorempixel.com/275/172/technics/6/" alt="img">
+		            <img src="{{ site.baseurl }}/projects/travelAgency/images/kon-tiki-frontpage.JPG" width="275" height="172" alt="Travel Agency Database">
 		        </div>
 		        <div class="info">
 		            <h3>Travel Agency Database</h3>
