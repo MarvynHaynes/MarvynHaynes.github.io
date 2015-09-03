@@ -6,7 +6,6 @@ summary:    A Java application that replays sailboat positioning using GPS co-or
 categories: Project
 author:     Marvyn
 thumbnail:  briefcase
-addCSS:     myCustom.css
 tags:
  - Java
  - Project

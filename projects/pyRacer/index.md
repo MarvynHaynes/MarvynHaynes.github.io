@@ -6,7 +6,6 @@ summary:    A top view racing game built using Python and the PyGame library.
 categories: Project
 author:     Marvyn
 thumbnail:  briefcase
-addCSS:     myCustom.css
 tags:
  - Python
  - Project
