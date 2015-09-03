@@ -57,7 +57,7 @@ A list of old projects I have worked on in the past while learning code.
 		<div class="ih-item square effect6 from_left_and_right">
 		    <a href="{{ site.baseurl }}/projects/biggestNumber/">
 		        <div class="img">
-		            <img src="{{ site.baseurl }}/projects/biggestNumber/images/BiggestNumber.jpg" width="275" height="172" alt="Biggest Number">
+		            <img src="{{ site.baseurl }}/projects/biggestNumber/images/BiggestNumber.JPG" width="275" height="172" alt="Biggest Number">
 		        </div>
 		        <div class="info">
 		            <h3>The Biggest Number</h3>
