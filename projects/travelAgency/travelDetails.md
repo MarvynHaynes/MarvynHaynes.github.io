@@ -58,12 +58,12 @@ Once we discussed what information is needed to gather in order to build the dat
 <div class="row">
 	<div class="col-md-6">
 		<a href="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Logical).JPG">
-			<img class="thumbnail" src="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Logical).JPG" alt="Travel Agency Logical Database Diagram" width="250" height="156">
+			<img class="thumbnail" src="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Logical).jpg" alt="Travel Agency Logical Database Diagram" width="250" height="156">
 		</a>
 	</div>
 	<div class="col-md-6">
 		<a href="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Relational).JPG">
-			<img class="thumbnail" src="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Relational).JPG" alt="Travel Agency Logical Database Diagram" width="250" height="156">
+			<img class="thumbnail" src="{{ site.baseurl }}/projects/travelAgency/images/TravelAgnecy(Relational).jpg" alt="Travel Agency Logical Database Diagram" width="250" height="156">
 		</a>
 	</div>
 </div>
