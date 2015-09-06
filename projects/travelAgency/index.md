@@ -30,4 +30,4 @@ This was a project I worked on with two other members which we designed, created
   * SQL Cursors
   * SQL Triggers
 
-To see the full step-by-step details click [here](#).
+To see the full step-by-step details click [here]({{ site.baseurl }}/projects/travelAgency/travelDetails/).
